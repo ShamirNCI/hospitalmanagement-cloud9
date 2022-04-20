@@ -1,15 +1,5 @@
 
 # Hospital Management
-## screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
-### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
-### Invoice
-![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
-### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
----
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).
@@ -35,7 +25,7 @@
 ---
 
 ## HOW TO RUN THIS PROJECT
-- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
+- Install Python(3.7.10) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
 ```
 pip install django==3.0.5
